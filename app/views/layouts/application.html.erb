@@ -9,6 +9,35 @@
   </head>
 
   <body>
+    <h1 class="off2">Nutricion</h1>
+    <h2 class="off3">Simón Verde</h2>
+
+<div id="container">
+    <div id="menu">
+      <ul>
+        <li class="menuitem">
+          <%= link_to 'Inicio', pages_inicio_path %>
+        </li>
+        <li class="menuitem">
+          <%= link_to 'Page1', pages_page1_path %>
+        </li>
+        <li class="menuitem">
+          <%= link_to 'Page2', pages_page2_path %>
+        </li>
+        <li class="menuitem">
+          <%= link_to 'Page3', pages_page3_path %>
+        </li>
+        <li class="menuitem">
+          <%= link_to 'Contacto', pages_contacto_path %>
+        </li>
+      </ul>
+    </div>
+    </div>
+
+<div id="content">
+
     <%= yield %>
+
+</div>
   </body>
 </html>
