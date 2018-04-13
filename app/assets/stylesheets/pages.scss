@@ -121,7 +121,7 @@ body {
 	color: #061C37;
 	// background: #EEEFE4;
   background: #F7F8ED;
-	background-image:url('background2.png');
+	background-image:image-url('background2.png');
 	background-repeat:repeat-x;
 }
 *
@@ -232,7 +232,7 @@ text-align: center;
 #menu
 // menu bar green background
 {
-background-image:url('menu.png');
+background-image:image-url('menu.png');
 background-repeat:no-repeat;
 width:720px;
 // uncomment/comment if you put back/take out lo natural/the natural way page
