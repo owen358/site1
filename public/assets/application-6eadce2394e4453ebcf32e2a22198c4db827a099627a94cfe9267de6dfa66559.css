@@ -1,0 +1,134 @@
+/* line 115, C:/Sites/site1/app/assets/stylesheets/pages.scss */
+body {
+  margin: 0;
+  padding: 0;
+  text-align: justify;
+  font: 12px Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  color: #061C37;
+  background-image: url(/assets/gotita-7c57f010929a458239897be163e4c47d95044d2b28fd606ccaa999bf188740dd.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/* line 130, C:/Sites/site1/app/assets/stylesheets/pages.scss */
+* {
+  margin: 0 auto 0 auto;
+  text-align: left;
+  font-family: Architects Daughter;
+  font-size: 16px;
+}
+
+/* line 139, C:/Sites/site1/app/assets/stylesheets/pages.scss */
+#container {
+  display: block;
+  height: auto;
+  position: relative;
+  width: 940;
+}
+
+/* line 209, C:/Sites/site1/app/assets/stylesheets/pages.scss */
+.off2 {
+  color: #866400;
+  font-family: Architects Daughter;
+  font-size: 70px;
+  text-align: center;
+}
+
+/* line 219, C:/Sites/site1/app/assets/stylesheets/pages.scss */
+.off3 {
+  color: #000;
+  font-family: Great Vibes;
+  font-size: 30px;
+  text-align: center;
+}
+
+/* line 235, C:/Sites/site1/app/assets/stylesheets/pages.scss */
+#menu
+ {
+  background-image: url(/assets/menu-69b23c20d6e744350690de1e8855d8fcc1aa2eab9da422f46dbab3174390164c.png);
+  background-repeat: no-repeat;
+  width: 720px;
+  height: 49px;
+  clear: both;
+}
+
+/* line 248, C:/Sites/site1/app/assets/stylesheets/pages.scss */
+#content {
+  text-align: justify;
+  width: 880px;
+  height: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 500;
+  word-spacing: 2px;
+}
+
+/* line 288, C:/Sites/site1/app/assets/stylesheets/pages.scss */
+#menu ul {
+  list-style: none;
+  padding: 0px;
+  margin-left: auto;
+  width: 980px;
+}
+
+/* line 296, C:/Sites/site1/app/assets/stylesheets/pages.scss */
+#menu li {
+  list-style: none;
+  padding: 0px;
+  display: inline;
+}
+
+/* line 305, C:/Sites/site1/app/assets/stylesheets/pages.scss */
+#menu a {
+  float: left;
+  width: 140px;
+  height: 40px;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: bold;
+  padding-top: 17px;
+  font-size: 15px;
+}
+
+/* line 320, C:/Sites/site1/app/assets/stylesheets/pages.scss */
+#menu a:hover {
+  color: #BEE399;
+}
+
+/* line 324, C:/Sites/site1/app/assets/stylesheets/pages.scss */
+#content p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* line 332, C:/Sites/site1/app/assets/stylesheets/pages.scss */
+html, body {
+  text-align: center;
+}
+
+/* line 335, C:/Sites/site1/app/assets/stylesheets/pages.scss */
+p {
+  text-align: left;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+
+
+ */
